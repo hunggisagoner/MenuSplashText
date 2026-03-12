@@ -11,9 +11,16 @@
 	"version": "v1.0.0",
 	"developer": "hunggisagoner",
 	"description": "Adds random splash texts to the main menu.",
+
+	"tags": [
+		"interface",
+		"customization"
+	],
+
 	"dependencies": {
 		"geode.node-ids": ">=v1.20.0"
 	},
+
 	"settings": {
 		"use-custom-splash": {
 			"name": "Use Custom Splash Text",
