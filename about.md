@@ -7,4 +7,5 @@ Adds random splash text to the Geometry Dash main menu.
 * You must use a semicolon (;) to separate splash texts.
 
 # Credits
-* [hunggisagoner](user:296181691)
+
+* [hunggisagoner](user:35716412)
